@@ -2,6 +2,8 @@
 
 Me chamo Jamilly Queiroz, tenho 17 anos e sou natural do Rio Grande do Norte. Iniciei meus estudos na EEEP Maria Célia Pinheiro Falcão ao ingressar no curso técnico em Desenvolvimento de Sistemas. Desde então, venho construindo uma base sólida em desenvolvimento front-end, principalmente nas principais linguagens da área. Ainda estou em processo de aprendizado. Tenho grande interesse por design, tecnologia e pela criação de soluções que unam funcionalidade e uma boa experiência para o usuário. Além das atividades relacionadas à tecnologia, destaco-me na prática de futsal e beach tênis, pois acredito que disciplina e estratégia também são fundamentais para o sucesso, tanto dentro quanto fora das quadras. Estou em constante evolução, sempre disposta a aprender mais e me desenvolver profissionalmente.
 
+<Br/>
+
 <p align="left">
     <a href="https://github.com/jamillymarqs?tab=followers">
         <img 
